@@ -1,5 +1,6 @@
 <?php
 echo "test";
 echo "testareaaa"; 
-echo "test florin marius";
+echo "test1";
+echo "test2";
 ?>
